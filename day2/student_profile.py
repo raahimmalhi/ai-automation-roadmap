@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+university = input("Enter your university: ")
+cgpa = float(input("Enter your CGPA: "))
+fav_technology = input("Enter your favorite technology: ")
+print(f"Hello my name is {name}, i am {age} years old, studying at {university} with a CGPA of {cgpa}. My favorite technology is {fav_technology}.")
