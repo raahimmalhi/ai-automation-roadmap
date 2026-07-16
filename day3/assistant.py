@@ -1,4 +1,4 @@
-
+while true:
 print("AI ASSISTANT \n Hi, I am your AI assistant. How can I help you today? \n 1)BUY PRODUCT \n 2)GET SUPPORT \n3)TALK TO HUMAN")
 choice = input("Enter your choice: ")
 if choice == "1":
